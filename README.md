@@ -1,6 +1,6 @@
-# Classification of Textual Data using Machine Learning Techniques
+# Text Classifier with Scikit-Learn
 
-Models used: Logistic Regression, Decision Trees, Support Vector Machines, Ada Boost, and Random Forest
+Classification of Textual Data using the following machine learning models: Logistic Regression, Decision Trees, Support Vector Machines, Ada Boost, and Random Forest
 
 writeup.pdf: The main report of the project
 
