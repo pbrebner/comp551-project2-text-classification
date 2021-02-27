@@ -13,4 +13,8 @@ writeup.pdf: The main report of the project
     
 Each Jupyter Notebook file will download/load the appropriate dataset and run through the required text preprocessing and classifcation models. The IMDB Dataset jupyter notebook files are all similar except for the preprocessing technique used before classification. The IMDB_Reviews_Dataset_tfidf uses the same preprocessing techniques as the NewsGroup Dataset jupyter notebook file.
 
-Read writeup.pdf for full results and discussion
+<object data="writeup.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="writeup.pdf">
+        <p>Please read writeup.pdf for full results and discussion. You can download the PDF to view it: <a href="writeup.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
